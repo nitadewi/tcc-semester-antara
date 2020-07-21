@@ -26,13 +26,9 @@ karakteristik di bawah ini yang umumnya terdapat di banyak aplikasi SaaS:
 Aplikasi SaaS juga mendukung apa yang secara 'tradisional' dikenal sebagai konfigurasi aplikasi. dengan kata lain, seperti perangkat lunak pada umumnya 
 seorang pengguna dapat mengubah set opsi konfigurasi (parameter) yang mempengaruhi fungsionalitas dan tampilan. Setiap pengguna dapat memiliki pengaturan sendiri (atau: nilai parameter) untuk opsi konfigurasi. Aplikasi ini dapat dikustomisasi hingga tingkat yang dirancang untuknya didasarkan pada serangkaian opsi konfigurasi yang telah ditentukan.
 * Accelerated feature delivery  
-Aplikasi SaaS sering diperbarui lebih sering daripada perangkat lunak tradisional.
-
-
-Accelerated feature delivery lebih jauh dimungkinkan oleh metodologi agile.  
+Aplikasi SaaS sering diperbarui lebih sering daripada perangkat lunak tradisional. Accelerated feature delivery lebih jauh dimungkinkan oleh metodologi agile.  
 
 * Open integration protocols  
-
 Karena aplikasi SaaS tidak dapat mengakses sistem internal perusahaan (basis data atau layanan internal), mereka sebagian besar menawarkan protokol integrasi dan antarmuka pemrograman aplikasi (API) yang beroperasi melalui jaringan area luas. Biasanya, ini adalah protokol berdasarkan HTTP, REST, dan SOAP.  
 
 * Collaborative (and "social") functionality  
