@@ -1,4 +1,4 @@
-##PLATFORM AS A SERVICE (PaaS)
+## PLATFORM AS A SERVICE (PaaS)
  Platform-as-a-Service (PaaS) atau application platform as a service (aPaaS) layanan berbasis platform pada cloud computing memberi pelanggan platform lengkap - perangkat keras, perangkat lunak, dan infrastruktur - untuk mengembangkan, menjalankan, dan mengelola aplikasi   
 
 PaaS mencakup infrastruktur — server, penyimpanan atau storage, dan jaringan — tetapi juga middleware, alat pengembangan, layanan intelijen bisnis (BI), sistem manajemen basis data, dan banyak lagi. PaaS dirancang untuk mendukung siklus hidup aplikasi web yang lengkap: *building, testing, deploying, managing, and updating.* 
