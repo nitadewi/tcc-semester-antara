@@ -23,8 +23,8 @@ PaaS, IaaS, dan SaaS merupakan tiga model layanan cloud yang paling umum, dan ti
 
 ### JENIS-JENIS PaaS  
 * Public, private and hybrid  
-Ada beberapa jenis PaaS, termasuk publik, private dan hybrid. PaaS awalnya ditujukan untuk aplikasi pada layanan cloud publik, sebelum meluas hingga mencakup opsi private dan hybrid.
-Public PaaS  berasal dari software as a service (SaaS), dan terletak dalam komputasi awan antara SaaS dan infrastructure as a service (IaaS).SaaS adalah perangkat lunak yang dihosting di cloud, sehingga tidak memakan ruang hard drive di komputer pengguna. 
+Ada beberapa jenis PaaS, termasuk publik, private dan hybrid. PaaS awalnya ditujukan untuk aplikasi pada layanan cloud publik, sebelum meluas hingga mencakup opsi private dan hybrid.  
+Public PaaS  berasal dari software as a service (SaaS), dan terletak dalam komputasi awan antara SaaS dan infrastructure as a service (IaaS).SaaS adalah perangkat lunak yang dihosting di cloud, sehingga tidak memakan ruang hard drive di komputer pengguna.  
 Private PaaS  biasanya dapat diunduh dan diinstal baik di pusat data lokal perusahaan, atau di cloud publik. Setelah perangkat lunak diinstal pada satu atau beberapa mesin, private PaaS  mengatur komponen aplikasi dan basis data menjadi satu platform hosting.  
 Hybrid PaaS biasanya merupakan penyebaran yang terdiri dari campuran penggunaan *public* dan *private*.
 
