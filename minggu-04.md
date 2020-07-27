@@ -1,5 +1,6 @@
-## Infrastructure as a Service 
+## MINGGU 4 Infrastructure as a Service dan Software-defined networking (SDN)  
 
+##  Infrastructure as a Service
 Infrastruktur as a Service (IaaS) adalah infrastruktur komputasi instan, yang disediakan dan dikelola melalui internet. 
 
 Biasanya IaaS melibatkan penggunaan teknologi  *cloud orchestration* seperti Open Stack, Apache Cloudstack atau OpenNebula. IaaS mengelola pembuatan mesin virtual dan memutuskan hypervisor (mis. Host fisik) untuk memulainya, memungkinkan fitur migrasi VM antara host, mengalokasikan volume penyimpanan dan melampirkannya ke VM, informasi penggunaan untuk penagihan dan banyak lagi.
@@ -29,7 +30,7 @@ Secara keseluruhan, ada banyak alasan mengapa seseorang akan melihat infrastrukt
 
 
 ## SDN  
-Teknologi network-defined networking (SDN) adalah pendekatan manajemen jaringan yang memungkinkan konfigurasi jaringan yang dinamis dan efisien secara program untuk meningkatkan kinerja dan pemantauan jaringan, menjadikannya lebih seperti komputasi awan daripada manajemen jaringan tradisional  
+Teknologi Software-defined networking (SDN) adalah pendekatan manajemen jaringan yang memungkinkan konfigurasi jaringan yang dinamis dan efisien secara program untuk meningkatkan kinerja dan pemantauan jaringan, menjadikannya lebih seperti komputasi awan daripada manajemen jaringan tradisional  
 
 ### Arsitektur SDN  
 
